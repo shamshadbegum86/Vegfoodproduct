@@ -1,0 +1,11 @@
+S.No.|Veg Food Names|Taste
+1|Tomoto Dal|Tasty
+2|Aalu Fry|Spicy
+3|All Leafy Vegitables|Good
+4|Samber|Tasty
+5|Pudina Chatny|Good
+6|Brinjal Dal|Tasty
+7|Lady's finger Fry|Spicy
+8|Pongali|Sweet
+9|Ginger Chatny|Spicy
+10|Halwa|Sweet
